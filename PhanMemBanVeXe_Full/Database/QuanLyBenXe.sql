@@ -39,15 +39,6 @@ create table LoaiNguoiDung
 	TenLoaiND nvarchar(30) not null
 )
 
-create table PhanQuyen
-(
-	IdNhanVien varchar(30) not null,
-	Xe int not null,
-	TuyenXe int not null,
-	ThoiDiem int not null,
-	ChuyenXe int not null,
-	BanVe int not null
-)
 ------------------------------------Tabl3.Xe-----------------------------------------
 -------------------------------------------------------------------------------------
 create table Xe
@@ -193,9 +184,6 @@ Add constraint pk_NguoiDung primary key(IdNguoiDung)
 Alter table LoaiNguoiDung 
 Add constraint pk_LoaiNguoiDung primary key(IdLoaiND)
 
-Alter table PhanQuyen
-Add constraint pk_PhanQuyen primary key(IdNhanVien, Xe, TuyenXe, ThoiDiem, ChuyenXe, BanVe)
-
 Alter table Xe 
 Add constraint pk_Xe primary key(So_Xe)
 
@@ -224,10 +212,6 @@ Add constraint pk_BanVe primary key(IdVe)
 -----------------------------------------------------------------------------------
 Alter table NguoiDung 
 Add constraint fk_NguoiDung_LoaiNguoiDung foreign key(IDLoaiND) references LoaiNguoiDung(IDLoaiND)
-Go
-
-Alter table PhanQuyen
-Add constraint fk_PhanQuyen_NguoiDung foreign key(IdNhanVien) references NguoiDung(IdNguoiDung)
 Go
 
 Alter table ChiTietTuyen 
