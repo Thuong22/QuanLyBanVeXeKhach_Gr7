@@ -1,0 +1,126 @@
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.AssemblyReference.cache
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Infomation.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Resources.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Main.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.GenerateResource.cache
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CoreCompileInputs.cache
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.exe
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.pdb
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.xml
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CopyComplete
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.exe
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.xml
+D:\code\HK1 năm 3\phan-men-QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.pdb
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Infomation.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Main.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.exe
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.xml
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.pdb
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.exe
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.pdb
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.xml
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.exe
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.pdb
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.xml
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Infomation.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Main.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.exe
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.xml
+C:\Users\nguye\OneDrive\Máy tính\Code BanVeXeKhach-new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.pdb
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.AssemblyReference.cache
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Phan_Quyen.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Infomation.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Resources.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Main.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.GenerateResource.cache
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CoreCompileInputs.cache
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.exe
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.xml
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.pdb
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.exe.config
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.exe
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.pdb
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.xml
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+D:\HOC\5\PPPTPMHUONGDOITUONG_SE100\CodeBanVeXeKhachNew\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CopyComplete
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.exe.config
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.exe
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.pdb
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\PhanMemBanVeXe_Full.xml
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\bin\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.AssemblyReference.cache
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Cap_pass.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_ChiTietTuyen.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_16_Cho.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_25_Cho.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_30_Cho.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_45_Cho.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Xe_7_Cho.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Infomation.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Resources.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Main.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.Form_Login.vi-VN.resources
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.GenerateResource.cache
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CoreCompileInputs.cache
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\vi-VN\PhanMemBanVeXe_Full.resources.dll
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.vbproj.CopyComplete
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.exe
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.xml
+D:\HK5\SE100 - PTPM HDT\QLban_ve_xe_31_12_9_new\QLbán-vé-xe\Code phần mềm bán vé xe\Code phần mềm bán vé xe\PhanMemBanVeXe_Full\obj\Release\PhanMemBanVeXe_Full.pdb

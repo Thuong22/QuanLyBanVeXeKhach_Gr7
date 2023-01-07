@@ -1,0 +1,491 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PhanMemBanVeXe_Full
+</name>
+</assembly>
+<members>
+<member name="T:PhanMemBanVeXe_Full.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.add_user_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.bus_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.button_cancel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.button_ok">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.cap_pass">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.configure">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.database">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.db_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.db_add1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.db_comit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.db_remove">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.db_status">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.db_update">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.edit_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.edit_user_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.editdelete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.exit1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.ferme">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.Fermer_session">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.GanXe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.GanXe1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.hanh_khach">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.Logout1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.Money_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.payment_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.phanquyen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.phanquyen1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.remove_user_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.twitter_bus_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.twitter_bus_purple_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.upload_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.user_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.user_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.user_icon11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PhanMemBanVeXe_Full.My.Resources.Resources.user_login_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.BanVeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChiTietTuyenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChoNgoiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChuyenXeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.DiaDiemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.LoaiNguoiDungDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.NguoiDungDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.PhanQuyenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ThoiDiemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.TuyenXeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.XeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.BanVeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChiTietTuyenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChoNgoiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChuyenXeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.DiaDiemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.LoaiNguoiDungRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.NguoiDungRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.PhanQuyenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ThoiDiemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.TuyenXeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.XeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.BanVeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChiTietTuyenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChoNgoiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ChuyenXeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.DiaDiemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.LoaiNguoiDungRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.NguoiDungRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.PhanQuyenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.ThoiDiemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.TuyenXeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSet.XeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.BanVeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.ChiTietTuyenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.ChoNgoiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.ChuyenXeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.DiaDiemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.LoaiNguoiDungTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.NguoiDungTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.PhanQuyenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.ThoiDiemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TuyenXeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.XeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PhanMemBanVeXe_Full.QuanLyBenXeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PhanMemBanVeXe_Full.QuanLyBenXeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PhanMemBanVeXe_Full.QuanLyBenXeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TableAdapterManager.UpdateAll(PhanMemBanVeXe_Full.QuanLyBenXeDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PhanMemBanVeXe_Full.QuanLyBenXeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
