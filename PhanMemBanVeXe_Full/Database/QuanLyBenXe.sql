@@ -1,6 +1,5 @@
 ﻿
 -------------------------Tao CSDL Quan Ly Ben Xe phuc vu cho cac ben xe khach------------------------
------Database is written by group simple: Nguyen Minh Tan, Bui Thanh Thoai, Tran Van Tu--------------
 
 /* Kiem tra Database 'QuanLyBenXe' da ton tai chua, neu co ta se xoa va tao moi */
 --If Exists (Select name From sysdatabases where name = 'QuanLyBenXe')
